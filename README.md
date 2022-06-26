@@ -38,17 +38,21 @@ Procedure:
 3)Move to poin1 using move J
 ............
 
-
 ## Program 
-// Roll no:
+// Roll no:212221230058
 
-//Name:
-MoveJ ................
+//Name: Meiyarasi.V
+
+![OUTPUT](./t1.PNG)
+![OUTPUT](./t2.PNG)
+![OUTPUT](./t4.PNG)
 
 ## output : 
 
+![OUTPUT](./t3.png)
 
 ## Results: 
+A program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully.
 
 
 
